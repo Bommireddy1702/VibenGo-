@@ -7,7 +7,7 @@
 ### 🔗 Live Demo & Screenshots
 
  **Download the App** from Expo:  
-👉 [Click here to install VibeNgo](https://expo.dev/accounts/bommireddy3132/projects/VibeNgo/builds/845f9f19-e516-4b88-9a41-02722b97a2b4)
+👉 [Click here to install VibeNgo](https://expo.dev/accounts/bommireddy3132/projects/VibeNgo/builds/4ed87859-8043-434c-83f0-1f72aeb47b87)
 
  **Screenshots Available**  
 Check out the [`screenshots/`](./screenshots) folder in this repository to preview the app interface and flows.
